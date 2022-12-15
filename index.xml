@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Sumit Hawal</title>
+    <link>https://sumithawal.github.io/Portfolio_2/</link>
+    <description>Recent content in Portfolio on Sumit Hawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Nov 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://sumithawal.github.io/Portfolio_2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bank Marketing Strategy</title>
+      <link>https://sumithawal.github.io/Portfolio_2/post/bank/</link>
+      <pubDate>Wed, 30 Nov 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://sumithawal.github.io/Portfolio_2/post/bank/</guid>
+      <description>A Portuguese Bank wants to market one of its products, Term deposit. These are generally short-term with maturities ranging anywhere from a month to a few years. Term deposits are an extremely safe investment and are therefore very appealing to conservative, low-risk investors. Instead of mass marketing, the bank has opted to be more proactive in identifying potential buyers and contacting the customer directly. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would subscribe or not.</description>
+    </item>
+    
+    <item>
+      <title>Brain Tumor Detection Using Convolutional Neural Network</title>
+      <link>https://sumithawal.github.io/Portfolio_2/post/brain/</link>
+      <pubDate>Thu, 10 Mar 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://sumithawal.github.io/Portfolio_2/post/brain/</guid>
+      <description>To design a detection and diagnosis of brain tumor from MRI is crucial to decrease the rate of casualties. Brain tumor is difficult to cure, because the brain has a very complex structure and the tissues are interconnected with each other in a complicated manner. Despite many existing approaches, robust and efficient segmentation of brain tumor is still an important and challenging task. Tumor segmentation and classification is a challenging task, because tumors vary in shape, appearance and location.</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive survey of machine learning based heart disease prediction at early stages</title>
+      <link>https://sumithawal.github.io/Portfolio_2/post/research/</link>
+      <pubDate>Mon, 22 Nov 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://sumithawal.github.io/Portfolio_2/post/research/</guid>
+      <description>Cardiovascular disease diagnosis is the most difficult task in medicine. The diagnosis of heart disease is complicated because it requires the grouping of massive volumes of clinical and pathological data. As a result of this dilemma, researchers and clinical professionals have developed a strong interest in the efficient and exact prediction of heart disease. When it comes to heart disease, it is critical to obtain an accurate diagnosis at an early stage because time is of the essence.</description>
+    </item>
+    
+    <item>
+      <title>Internship at Suvidha Foundation</title>
+      <link>https://sumithawal.github.io/Portfolio_2/post/intern/</link>
+      <pubDate>Sun, 10 Oct 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://sumithawal.github.io/Portfolio_2/post/intern/</guid>
+      <description> Worked on with a team of interns on the project Analysis of Birth Rate in India using python. Reviewed different research papers for Suvidha Foundation on topics IoT, accessible maps, Crowds sourced data for spatial patterns. Created content for python introductory course and machine learning introductory course. </description>
+    </item>
+    
+    <item>
+      <title>Old Car Resell Rate Prediction</title>
+      <link>https://sumithawal.github.io/Portfolio_2/post/car/</link>
+      <pubDate>Mon, 20 Sep 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://sumithawal.github.io/Portfolio_2/post/car/</guid>
+      <description>The objective of our project is to be able to predict the price of a used car given various attributes (data) of that car. There is a saying that a car loses 10% of its value the moment you drive it off a lot. Given, that I would expect that one of the main predictors is the amount of miles driven in the car, since more driving wears down the car.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://sumithawal.github.io/Portfolio_2/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sumithawal.github.io/Portfolio_2/about/</guid>
+      <description>Hi, I am Sumit. I am first year Data Science graduate at Northeastern&amp;rsquo;s Khoury college of Computer Science. I have a bachelors degree in Computer Engineering from Savitribai Phule Pune University, India.
+During my undergrad I was actively learning through courses like &amp;lsquo;Machine Learning by Andrew NG&amp;rsquo;,&amp;lsquo;IBM AI Engineering&amp;rsquo;, ,&amp;lsquo;Model Building With Tensorflow&amp;rsquo;, through which I learned machine learning algorithms, exploratory data analysis, model streamlining. This piqued my interest in the field of data science and motivated me to do my masters.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sumithawal.github.io/Portfolio_2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sumithawal.github.io/Portfolio_2/contact/</guid>
+      <description>Follow me on these social platforms
+Platform URL Twitter: https://twitter.com/Sumit_Hawal7 Github: https://github.com/sumithawal LinkedIn: https://www.linkedin.com/in/sumit-hawal-1189b920b/ Instagram: https://www.instagram.com/sumit_hawal/ </description>
+    </item>
+    
+  </channel>
+</rss>
